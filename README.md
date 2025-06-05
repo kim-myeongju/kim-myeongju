@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=d8dfdb&height=150&section=header&text=Github%20by%20MJ&fontSize=70&fontColor=2e92d5)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=d8dfdb&height=100&section=header&text=Github%20by%20MJ&fontSize=50&fontColor=2e92d5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-myeongju)](https://github.com/kim-myeongju/github-readme-stats)
 
