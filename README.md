@@ -1,22 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MJ%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=d1e492&height=150&section=header&text=MJ%20Github&fontSize=70)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-myeongju)](https://github.com/kim-myeongju/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-FD5750?style=flat-square&logo=React&logoColor=magenta)
+![mysql](https://img.shields.io/badge/-mysql-1F305F?style=flat-square&logo=mysql&logoColor=white)
+![python](https://img.shields.io/badge/-python-1F305F?style=flat-square&logo=python&logoColor=white)
+![linux](https://img.shields.io/badge/-linux-1F305F?style=flat-square&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 
 
 ### 김명주입니다💖
 
 ```
-print('Hi World');
+print('끊임없이 공부하기');
 ```
 
-# :joy: <br>
-- [x] JAVA <br>
-- [x] JavaScript <br>
-- [x] Spring <br>
+# 나의 취미 :joy: <br>
+- [x] 일본어공부 <br>
+- [x] 카페가서 독서하기 <br>
+- [x] 피아노 연주 <br>
