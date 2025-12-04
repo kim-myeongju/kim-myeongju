@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=e9f2f6&height=100&section=header&text=Github%20by%20MJ💎&fontSize=50&fontColor=2e92d5)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=e9f2f6&height=100&section=header&text=MJ's%20Github💎&fontSize=50&fontColor=2e92d5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-myeongju)](https://github.com/kim-myeongju/github-readme-stats)
-
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-
+## 🚀 Skills
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-fa935f?style=flat&logo=Java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e8dc5e?style=flat-square&logo=JavaScript&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-30ccf7?style=flat-square&logo=React&logoColor=magenta)
-![oracle](https://img.shields.io/badge/-oracle-1F305F?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-1F305F?style=flat-square&logo=Oracle&logoColor=white)
 ![MySql](https://img.shields.io/badge/-MySql-1F305F?style=flat-square&logo=MySql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-1F305F?style=flat-square&logo=Redis&logoColor=white)
 ![linux](https://img.shields.io/badge/-linux-999999?style=flat-square&logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/-d8dfdb?style=flat-square&logo=C&logoColor=black)
 
