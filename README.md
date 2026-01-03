@@ -14,7 +14,7 @@
 
 
 ```
-print('끊임없이 공부하기💖');
+print('to study constantly💖');
 ```
 
 # My Hobby :joy: <br>
