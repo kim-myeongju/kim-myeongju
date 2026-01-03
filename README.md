@@ -18,6 +18,6 @@ print('끊임없이 공부하기💖');
 ```
 
 # My Hobby :joy: <br>
-- [x] 일본어 원서책 읽기 <br>
-- [x] 카페가서 독서하기 <br>
-- [x] 피아노 연주 <br>
+- [x] Reading Japanese Essay Books <br>
+- [x] Reading at a cafe <br>
+- [x] Playing the piano <br>
