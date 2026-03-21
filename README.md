@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=120&section=header&text=Backend%20Developer%20MJ&fontSize=35&fontColor=ffffff"/>
 </p>
-<h2 align="center">Backend developer with fullstack experience</h2>
+<h2 align="center">💎 Backend developer with fullstack experience 💎</h2>
 
-- Implemented authentication and authorization with security considerations such as concurrent login control and token expiration  
+- Implemented authentication and authorization with security considerations such as concurrent login control and token expiration
 - Developed an event reservation process ensuring atomicity and data consistency
 
 ---
